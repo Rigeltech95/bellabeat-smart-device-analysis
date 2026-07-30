@@ -18,6 +18,15 @@ Analyze smart device usage data to identify trends and provide marketing recomme
 
 ---
 
+## Analysis Process
+
+1. Imported Fitbit CSV files into MySQL.
+2. Cleaned and validated the data.
+3. Performed exploratory SQL analysis.
+4. Identified user activity and sleep patterns.
+5. Built an interactive Tableau dashboard.
+6. Generated business recommendations for Bellabeat.
+
 ## Tools Used
 
 - MySQL
