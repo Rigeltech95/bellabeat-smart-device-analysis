@@ -30,7 +30,7 @@ Fitbit Fitness Tracker Data (Kaggle)
 
 ## Dashboard Preview
 
-*(Dashboard image will be added here.)*
+![Dashboard](images/dashboard.png)
 
 ---
 
