@@ -38,6 +38,14 @@ Fitbit Fitness Tracker Data (Kaggle)
 
 ---
 
+## Project Summary
+
+- Dataset: Fitbit Fitness Tracker Data (Kaggle)
+- Records Analyzed: 940 daily activity records
+- SQL Queries: 15+
+- Dashboard: Tableau
+- Database: MySQL
+
 ## Key Findings
 
 - Users average fewer than 10,000 daily steps.
