@@ -1,5 +1,9 @@
 # Bellabeat Smart Device Usage Analysis
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
 ## Project Overview
 
 This project is the capstone project for the Google Data Analytics Professional Certificate.
