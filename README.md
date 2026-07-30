@@ -33,6 +33,18 @@ Analyze smart device usage data to identify trends and provide marketing recomme
 - Tableau
 - GitHub
 
+## Skills Demonstrated
+
+- Data Cleaning
+- SQL Joins
+- Aggregate Functions
+- CASE Statements
+- KPI Analysis
+- Data Visualization
+- Business Intelligence
+- Tableau Dashboard Design
+- Data Storytelling
+
 ---
 
 ## Dataset
