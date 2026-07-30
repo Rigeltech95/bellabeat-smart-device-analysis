@@ -30,7 +30,7 @@ Fitbit Fitness Tracker Data (Kaggle)
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Bellabeat Dashboard](Documents/dashboard.png)
 
 ---
 
